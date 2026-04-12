@@ -212,13 +212,6 @@ Through EXL, we can see that Ireland is becoming an important part of the AI sup
 
 This makes Ireland more than just a host location for multinational firms. It makes it a strategic environment where AI capability can be developed, connected, and scaled.
 
----
-
-## Poster
-![Poster Preview](assets/EXL_Why_Ireland_Poster.png)
-
-[Download Poster PDF](assets/EXL_Why_Ireland_Poster.pdf)
-
 
 ---
 
@@ -227,7 +220,7 @@ This makes Ireland more than just a host location for multinational firms. It ma
 - `README.md` – full case study
 - `assets/EXL_Why_Ireland_Poster.png` 
 - `assets/EXL_Why_Ireland_Poster.pdf`
-
+- `assets/EXL_Why_Ireland_Poster.pptx`
 ---
 
 ## References
