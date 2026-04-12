@@ -2,7 +2,7 @@
 
 ## Poster Preview
 
-![Poster Preview](EXL_Why_Ireland_Poster.jpg)
+
 
 ## Poster Files
 
