@@ -215,23 +215,18 @@ This makes Ireland more than just a host location for multinational firms. It ma
 ---
 
 ## Poster
+![Poster Preview](assets/EXL_Why_Ireland_Poster.png)
 
-The final version of the poster will be uploaded soon.
+[Download Poster PDF](assets/EXL_Why_Ireland_Poster.pdf)
 
-<!-- Later replace this section with:
-## Poster
-![Poster Preview](assets/poster.png)
-
-[Download Poster PDF](assets/poster.pdf)
--->
 
 ---
 
 ## Repository Structure
 
 - `README.md` – full case study
-- `assets/poster.png` – poster image (to be uploaded later)
-- `assets/poster.pdf` – poster PDF (to be uploaded later)
+- `assets/EXL_Why_Ireland_Poster.png` 
+- `assets/EXL_Why_Ireland_Poster.pdf`
 
 ---
 
