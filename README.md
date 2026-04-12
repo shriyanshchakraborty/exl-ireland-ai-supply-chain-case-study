@@ -218,9 +218,12 @@ This makes Ireland more than just a host location for multinational firms. It ma
 ## Repository Structure
 
 - `README.md` – full case study
-- `assets/EXL_Why_Ireland_Poster.png` 
+- `assets/EXL_Why_Ireland_Poster.jpg` 
 - `assets/EXL_Why_Ireland_Poster.pdf`
 - `assets/EXL_Why_Ireland_Poster.pptx`
+- `assets/Logos`
+- `assets/1_Page_Poster_Summary.pdf`
+- `assets/Initial Poster Plan.pdf`
 ---
 
 ## References
