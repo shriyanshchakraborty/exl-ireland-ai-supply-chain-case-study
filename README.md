@@ -1,11 +1,13 @@
 # Why Ireland? EXL and the AI Supply Chain
 
 ## Poster Preview
-**Final poster will be uploaded soon.**
 
-<!-- Replace the line above later with:
-![Poster Preview](assets/poster.png)
--->
+![Poster Preview](EXL_Why_Ireland_Poster.jpg)
+
+## Poster Files
+
+- [Download the poster PDF](EXL_Why_Ireland_Poster.pdf)
+- [View the editable PowerPoint version](EXL_Why_Ireland_Poster.pptx)
 
 ---
 
