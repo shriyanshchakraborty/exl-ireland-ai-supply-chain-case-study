@@ -245,8 +245,4 @@ The final version of the poster will be uploaded soon.
 
 ---
 
-## Author
 
-**Shriyansh Chakraborty**  
-MSc Digital Innovation  
-University College Dublin
